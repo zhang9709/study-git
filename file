@@ -3,3 +3,4 @@ hot_fix branch test
 conflict test
 master, new line
 add new line, branch dev test
+add new line, git diff test

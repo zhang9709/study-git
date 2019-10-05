@@ -2,3 +2,4 @@ test
 new line 1
 new line 2
 new line 3
+new line by master: 11:15

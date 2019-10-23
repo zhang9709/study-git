@@ -11,7 +11,3 @@ add new line 16:02
 add new line, merge test
 add new line, merge ff test
 add new line, 22:37, merge test
-add new line, branch tmp, merge test, 22:38
-add new line, merge test
-add new line, squash test
-add new line, 2019-10-23
